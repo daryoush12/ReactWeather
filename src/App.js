@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import store from './js/store/index'
 import logo from './logo.svg';
 import './App.css';
 import { AxiosCallCities } from './RestHandlers/AxiosRest';
